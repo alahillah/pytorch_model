@@ -1,0 +1,9 @@
+# Large model binaries (distributed via GitHub Releases, not the git repo)
+pytorch_model.bin
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Visual Studio / IDE
+.vs/
